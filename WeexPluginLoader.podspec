@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ZSWeexPluginLoader'
+  s.name             = 'WeexPluginLoader'
   s.version          = '0.0.1566020670'
   s.summary          = 'Weex Plugin Loader.'
 
